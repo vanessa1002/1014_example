@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      05_kerenel_Cards_0: 1247480308606008722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

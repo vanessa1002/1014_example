@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      robot_dance_anim_0: 1838415424644777030
+      robot_dance_anim_1: 4844662505646263943
+      robot_dance_anim_2: 8240662194908927356
+      robot_dance_anim_3: -153081433375221873
+      robot_dance_anim_4: 6628168290714056996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

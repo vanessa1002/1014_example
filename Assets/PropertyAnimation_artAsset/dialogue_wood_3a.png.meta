@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dialogue_wood_3a_0: 1814040537563943685
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
